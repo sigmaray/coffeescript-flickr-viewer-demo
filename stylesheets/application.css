@@ -1,0 +1,39 @@
+/* line 1, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+html, body {
+  padding: 0;
+  margin: 0; }
+
+/* line 6, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+body {
+  text-align: center; }
+
+/* line 11, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#menu a {
+  margin: 0 8px; }
+
+/* line 17, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#hint_links a {
+  margin: 0 15px; }
+
+/* line 23, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#preloader {
+  margin-top: 15px 0; }
+
+/* line 28, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#index_page #images a {
+  display: inline-block;
+  margin: 10px; }
+
+/* line 34, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+body.carousel, #carousel_page {
+  height: 100%; }
+
+/* line 39, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#carousel_page #header {
+  height: 25%; }
+/* line 43, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+#carousel_page #rest {
+  height: 75%; }
+  /* line 47, /home/foobar/projects/coffeescript-flickr-viewer/source/stylesheets/application.scss */
+  #carousel_page #rest #img_container img {
+    max-height: 400px; }
